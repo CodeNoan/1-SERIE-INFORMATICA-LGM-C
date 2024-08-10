@@ -1,2 +1,2 @@
-# Exercicios-C
-Alguns exercícios de linguagem C :P
+# 1ª Série INFORMÁTICA
+Alguns exercícios que fiz durante a 1ª série.
