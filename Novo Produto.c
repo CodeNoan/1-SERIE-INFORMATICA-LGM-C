@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+//Uma empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou nao de um novo produto lançado no mercado. Para isso, forneceu o sexo do entrevistado e sua resposta (SIM OU NAO). Sabe-se que foram entrevistadas 10 pessoas. Faça um progama que calcule e mostre:
+//O numero de pessoas que responderam sim.
+//O numero de pessoas que responderam nao.
+//O numero de mulheres que responderam sim.
+//A porcentagem de homens que responderam nao, entre todos os homens analisados.
 int main() {
     char sexo;
     char resposta;
