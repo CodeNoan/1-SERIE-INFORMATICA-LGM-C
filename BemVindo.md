@@ -1,2 +1,2 @@
 # 1ª Série INFORMÁTICA
-Alguns exercícios que fiz durante a 1ª série.
+Alguns exercícios de linguagem C que fiz durante a 1ª série.
